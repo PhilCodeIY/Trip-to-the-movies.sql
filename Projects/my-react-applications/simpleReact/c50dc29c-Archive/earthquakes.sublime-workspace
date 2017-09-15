@@ -1,0 +1,350 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"en",
+				"enginesize"
+			],
+			[
+				"qestion",
+				"question2"
+			],
+			[
+				"number",
+				"numberVals"
+			],
+			[
+				"finl",
+				"finalChoice"
+			],
+			[
+				"opti",
+				"option2"
+			],
+			[
+				"op",
+				"option1"
+			],
+			[
+				"nm",
+				"nums"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"con",
+				"justify-content"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"bac",
+				"background-clip"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"sp",
+				"space-between"
+			],
+			[
+				"alig",
+				"align-content"
+			],
+			[
+				"s",
+				"space-between"
+			],
+			[
+				"posit",
+				"position"
+			],
+			[
+				"flex-w",
+				"flex-wrap"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"border",
+				"border-bottom-style"
+			],
+			[
+				"border-c",
+				"border-collapse"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/philipschwartz/Documents/Projects/my-react-applications/scaffolding/5ef79c0b-ReactStarterFiles/App.js",
+		"/Users/philipschwartz/Desktop/call",
+		"/Users/philipschwartz/Desktop/arrow.js",
+		"/Users/philipschwartz/Desktop/impexport.js",
+		"/Users/philipschwartz/Desktop/8.22 class practice.js",
+		"/Users/philipschwartz/Documents/Projects/vendingMachine/app.js",
+		"/Users/philipschwartz/Documents/Projects/user-directory/routers/userouters.js",
+		"/Users/philipschwartz/Documents/Projects/user-directory/app.js",
+		"/Users/philipschwartz/Documents/Projects/gabble/app.js",
+		"/Users/philipschwartz/Documents/Projects/SQL/actors-sql/actors.sql",
+		"/Users/philipschwartz/Documents/SQL/actors.sql",
+		"/Users/philipschwartz/Documents/SQL/actors-sql/actors.sql",
+		"/Users/philipschwartz/Documents/SQL/INSERT and UPDATE",
+		"/Users/philipschwartz/Documents/Trip-to-the-movies.sql",
+		"/Users/philipschwartz/Documents/Trip to the movies.sql",
+		"/Users/philipschwartz/Documents/supplemental.sql",
+		"/Users/philipschwartz/Documents/birthdate.sql",
+		"/Users/philipschwartz/Documents/Projects/movies/readme.md",
+		"/Users/philipschwartz/Documents/Projects/parse-form/app.js",
+		"/Users/philipschwartz/Documents/Projects/schemaProject/collection.js",
+		"/Users/philipschwartz/Documents/Projects/login-project/views/callback.js",
+		"/Users/philipschwartz/Documents/Projects/36d3402e-data.js",
+		"/Users/philipschwartz/Downloads/LinkedIn4Bots.json",
+		"/Users/philipschwartz/Documents/Projects/user-directory/data.js",
+		"/Users/philipschwartz/Documents/Projects/todoList/app.js",
+		"/Users/philipschwartz/Documents/Projects/login-project/app.js",
+		"/Users/philipschwartz/Documents/Projects/user-directory/static/css/main.css",
+		"/Users/philipschwartz/Documents/Projects/date-facts/node.js",
+		"/Users/philipschwartz/Documents/Projects/nodework/package.json",
+		"/Users/philipschwartz/Documents/Projects/Calculator/main.js",
+		"/Users/philipschwartz/Documents/Projects/Calculator/main.css",
+		"/Users/philipschwartz/Documents/Projects/GitHubdata2/index.html",
+		"/Users/philipschwartz/Documents/Projects/GitHubData/main.js",
+		"/Users/philipschwartz/Documents/Projects/star-wars-people/main.js",
+		"/Users/philipschwartz/Documents/Projects/promises-callbacks/main.js",
+		"/Users/philipschwartz/Documents/Projects/star-wars-people/solutions 2/solutions.js",
+		"/Users/philipschwartz/Documents/Projects/algorithms-practice/index.html",
+		"/Users/philipschwartz/Documents/Projects/ibeer/ibeer_starter_files/main.css",
+		"/Users/philipschwartz/Documents/Projects/Blog-Posts/styles.css",
+		"/Users/philipschwartz/Documents/Projects/Blog-Posts/main.js",
+		"/Users/philipschwartz/Documents/Projects/acme-design/e285b704-dom_manipulation/starter_files/style.css",
+		"/Users/philipschwartz/Documents/Projects/acme-design/e285b704-dom_manipulation/starter_files/script.js",
+		"/Users/philipschwartz/Documents/Projects/Etsy-Project/starter_files 3/https-::tiy-learn-content.s3.amazonaws.com:b69831ac-arrays.js",
+		"/Users/philipschwartz/Documents/Projects/Etsy-Project/starter_files 3/main.js",
+		"/Users/philipschwartz/Documents/Projects/Etsy-Project/starter_files 3/logger.js",
+		"/Users/philipschwartz/Documents/Projects/Etsy-Project/starter_files 3/data.js",
+		"/Users/philipschwartz/Documents/Projects/Arrays, Objects, and Loops Project/starter_files 3/test.js",
+		"/Users/philipschwartz/Documents/Projects/Arrays, Objects, and Loops Project/starter_files 3/style.css",
+		"/Users/philipschwartz/Documents/Projects/Arrays, Objects, and Loops Project/starter_files 3/script.js",
+		"/Users/philipschwartz/Documents/Projects/26272e5c-arrays-objects-loops-2/starter_files/test.js",
+		"/Users/philipschwartz/Documents/Projects/26272e5c-arrays-objects-loops-2/starter_files/style.css",
+		"/Users/philipschwartz/Documents/Projects/26272e5c-arrays-objects-loops-2/starter_files/script.js",
+		"/Users/philipschwartz/Documents/Projects/26272e5c-arrays-objects-loops-2/solutions/script.js",
+		"/Users/philipschwartz/Documents/Projects/Arrays-objects-loops daily project/test.js",
+		"/Users/philipschwartz/Documents/Projects/Arrays-objects-loops daily project/style.css",
+		"/Users/philipschwartz/Documents/Projects/Arrays-objects-loops daily project/script.js",
+		"/Users/philipschwartz/Documents/Projects/intro-to-js/main.js",
+		"/Users/philipschwartz/Documents/Projects/intro-to-js/index.html",
+		"/Users/philipschwartz/Documents/Projects/week-one-project/index.html",
+		"/Users/philipschwartz/Documents/Projects/week-one-project/styles.css",
+		"/Users/philipschwartz/Documents/Projects/week-one-project/README.md",
+		"/Users/philipschwartz/Documents/Projects/ibeer/ibeer_starter_files/index.html",
+		"/Users/philipschwartz/Documents/Projects/ibeer/main.css",
+		"/Users/philipschwartz/Documents/Projects/ibeer/index.html",
+		"/Users/philipschwartz/Downloads/text_styling/README.md",
+		"/Users/philipschwartz/Documents/Projects/star-writing-html/season_one.html",
+		"/Users/philipschwartz/Documents/Projects/star-writing-html/index.html",
+		"/Users/philipschwartz/Downloads/Star/README.md",
+		"/Users/philipschwartz/index.html",
+		"/Users/philipschwartz/Documents/Projects/Project/LICENSE.md",
+		"/Users/philipschwartz/Documents/Projects/branches/README.md",
+		"/Users/philipschwartz/Documents/Projects/test-repo/README.md"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"insta",
+			"yellow",
+			";\n",
+			"image",
+			"main",
+			"form"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "earthquakes.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 182.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
